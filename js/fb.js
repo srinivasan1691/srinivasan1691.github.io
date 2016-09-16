@@ -75,7 +75,7 @@ function fb_login(){
         var tasty = 1614251518827491;
         var withinTemptation = 7185342985;
         var coldplay = 15253175252;
-        processPageIDs(response, aToken, rio2016);
+        processPageIDs(response, aToken, tasty);
     } else {
         //user hit cancel button
         console.log('User cancelled login or did not fully authorize.');
