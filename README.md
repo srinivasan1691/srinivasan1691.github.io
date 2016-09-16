@@ -11,7 +11,8 @@ In order to create a web application that involves using facebook Graph-API, one
 
 The entire project was developed in 7 days and I had no prior experience developing such application(s). This entire project was developed because I hustled and I took steps which you may think is counterproductive, but at that time it was a life-saver for me. 
 
-So, I had **three** following issues:
+So, I had **three** issues:
+
 1. Having an existing application:
 If there wasn't an existing application, then facebook login button will not be rendered. The static pages in my local systems wouldn't even continue to the main implementation.
 **My Soln**: I pushed my repo to _srajappa.github.io_ repository which was a server that rendered the *index.html* page. Things worked, but the only downside was I had to push code for every change I made. 
@@ -48,6 +49,8 @@ How did I present ? How did I code ? Any feedback ? Let me know [@cruiousCOCO](h
 
 
 ![alt tag](https://lh3.googleusercontent.com/uKlr21TXOLVxLNKFErDOZCrUg2aOfeWJqifD4mLbdV1bhmugoZmkVRJebd8YrYXW9hYj9qSnlrAGJIy-sy9i3xaBbrOpUNlQ8aizbPCoZ7jvscIpKzcX0VZSwoU-jNzBZRRmQ2NptUvGm5Z04DXvs5RC7VOUy_Zxfz0mjxfc5bv-Idep6_NhupOuqcjKIZ-kXQCmnXsGNEQ6eKTL2kiv2eo56yJze_xRIh0Kk3XrXVwMonBDNK4pf70FBvp4vqgYAVeG3gv4XbW9fQoMxQds78VwfuTjTKHK_xftojxobx6SuZSNch92sXXSSJNPrFUEgX5K76Kzs0qwHInBxSAYGniFfIgMyVB6idr4zR9RA3BFRqnhstxWtueBF3Q6fyjh47SHDKVQUJXHyFZQEwR3Vw3RgYxPMhcQXusBON23hMSIaRxj254sGB-BBYusGqI0Ed2N5s_FPCuX-ika-B6zmMXG-AI2MMCgJcEaftm6C5KFk9K2mnwm-wtY6QVcJIj7QLidGT89ZLoMw2zLOKWi-BO5YgbIDm3_yW7UFYFrdMWn5Yia4hs5zIY2ZSDRHaGCOXTmtCXEYHSuD-5GHfRn4r6IoWcMYuLCO_34WiLMGSQDITszZw=w1855-h984-no)
+
+
 
 ![alt tag](https://lh3.googleusercontent.com/7qJvhW_9P29PUTdoPXkeGdMnf0_lWrY0gza0UA9Mc86QmShsMfjBC13odt2x17o0f1l-y0UXexoquUNe5tvwZ1m5AwpO7dNYJ3VH5qjGOvfP4ylQzcNfRu7_OFo365FeLnWferCVU8zcy9h7Io3fOrePtfMbbmRacImfB6YvokGEymQ7-gL1E7pCFLMBIxzoCRAqvA5yQoZGbFRunlCz6rxRF9ONqmw81Czsp9GdoFYET2ILvehBNxlkx3Iv0TOrjBGBTustMTGd7XwBBHrtAa8otAy7R7eoV8iw0SMqFtAPR18WnOmdiq3KJRIS_ZRsoZ7_SFlknnyBUL_t9xE3AOs52zWngDky0j-3Yqks0piLr6Y1X45P-9YMxJ6LefiHOndLWchV8Ft-f0EnZZ8oCfzIF4cmGqiO1L-5YGqSxmd-z8yCailhHvlfc9JHn6nBD2mnIQA2WrCmUGBgdTgvAFOuiqjUO1DnExhXWcKB00F883jWdznt3Q9nvoEQ9FyRGrW7pF9dqaI8GUZqSxVKS91j6Ufs3iS0QWEmkN4uYDN1McjoQ_8mVuEsTd_pF6uD2gGU3_k04MBo5lSYjPCH0AEpbWuHkzYgS2vaR3o1JiKYXjUBCQ=w380-h205-no)
 
