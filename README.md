@@ -15,17 +15,13 @@ So, I had **three** issues:
 
 1. Having an existing application:
 If there wasn't an existing application, then facebook login button will not be rendered. The static pages in my local systems wouldn't even continue to the main implementation.
-**My Soln**: I pushed my repo to _srajappa.github.io_ repository which was a server that rendered the *index.html* page. Things worked, but the only downside was I had to push code for every change I made. 
-
-*I know ! things could have done little better. After taking inputs from experts and friends I found out that I could use mockservers (so that I don't have to push to the repo) or a dev environment (to ensure facebook Graph-API to run) or a data stubs (to contain all the facebook Graph-API responses to facilitate the operations). The thing was I got this input quite late, when I was about to finish developing the application. So, next time I will definitely put this into use.*
+**My Soln**: I pushed my repo to _srajappa.github.io_ repository which was a server that rendered the *index.html* page. Things worked, but the only downside was I had to push code for every change I made. *I know ! things could have done little better. After taking inputs from experts and friends I found out that I could use mockservers (so that I don't have to push to the repo) or a dev environment (to ensure facebook Graph-API to run) or a data stubs (to contain all the facebook Graph-API responses to facilitate the operations). The thing was I got this input quite late, when I was about to finish developing the application. So, next time I will definitely put this into use.*
 
 2. Tweaking the Graph-API calls:  
 I thank the developers at Stackoverflow and my friends helped me a ton understanding the Graph-API calls. It was a tedious task understanding the calls, but once I understood it all was easy. 
 
 3. UI-related issues:
-I used Modal bootstraping to load the facebook login button. As Facebook Graph-API restricts only 25 videos per request, I only loaded 25 videos initially. I also loaded new videos whenever the scrollable event fired and it reached the bottom of the page. 
-   
-*I wish to improve this application more by using templating to load the next 25 videos. Templating will help load the content in less time compared to the current technique.*
+I used Modal bootstraping to load the facebook login button. As Facebook Graph-API restricts only 25 videos per request, I only loaded 25 videos initially. I also loaded new videos whenever the scrollable event fired and it reached the bottom of the page. *I wish to improve this application more by using templating to load the next 25 videos. Templating will help load the content in less time compared to the current technique.*
 
 
 #### Running the application ####
